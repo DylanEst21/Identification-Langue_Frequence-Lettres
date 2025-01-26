@@ -137,5 +137,6 @@ Veuillez choisir un texte :
 13: Un autre texte (saisir son nom)
 
 Numéro de votre choix : 5
-Non trié!  {'Anglais': 12, 'Français': 8, 'Allemand': 15, 'Espagnol': 10, 'Portugais': 9, 'Italien': 11, 'Néerlandais': 14}
-Trié!  {'Français': 8, 'Portugais': 9, 'Espagnol': 10, 'Italien': 11, 'Anglais': 12, 'Néerlandais': 14, 'Allemand': 15}
+Non trié!  {'Anglais': 42, 'Français': 34, 'Allemand': 49, 'Espagnol': 21, 'Portugais': 14, 'Italien': 32, 'Néerlandais': 53}
+Trié!  {'Portugais': 14, 'Espagnol': 21, 'Italien': 32, 'Français': 34, 'Anglais': 42, 'Allemand': 49, 'Néerlandais': 53}
+
